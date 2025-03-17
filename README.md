@@ -12,3 +12,7 @@ se mostrarán con su respectivo nombre, poster y año de lanzamiento.
 Además, cuenta con un botón para poder ordenar por nombre o año de lanzamiento.
 
 Aplicación desarollada con React y Javascript + SWC
+
+
+Screenshot de la página
+![movie-page](https://github.com/user-attachments/assets/0578fdd1-4143-4c32-b8cd-cea6669b1ef7)
